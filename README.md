@@ -1,3 +1,3 @@
 # OI
-Rozwiązania zadań z olimpiady Informatycznej
-(EN) Solutions for polish olympiad in informatics
+(PL) Rozwiązania zadań z olimpiady Informatycznej
+(EN) Solutions for tasks from polish olympiad in informatics
